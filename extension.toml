@@ -1,7 +1,7 @@
-id = "evil-fleet-theme"
-name = "Evil Fleet Theme"
+id = "thunky-theme"
+name = "Thunky Theme"
 description = "A port of the Evil Rabbit theme combined with the syntax of the Fleet Dark theme."
 version = "0.0.1"
 schema_version = 1
 authors = ["bastianplsfix"]
-repository = "https://github.com/bastianplsfix/zed-theme-evil-fleet"
+repository = "https://github.com/bastianplsfix/zed-theme-thunky"
