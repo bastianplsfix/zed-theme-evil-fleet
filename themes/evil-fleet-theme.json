@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Evil Fleet",
   "author": "Sebastian Nomme",
   "themes": [
@@ -31,6 +31,7 @@
         "ghost_element.hover": "#ffffff10",
         "created": "#409D78",
         "deleted": "#EC5D6F",
+        "modified": "#CD984D",
         "syntax": {
           "attribute": {
             "color": "#af9cffff",
