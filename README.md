@@ -1,10 +1,10 @@
-# Evil Fleet Theme for Zed
+# Thunky Theme for Zed
 
 A sophisticated dark theme for [Zed](https://zed.dev) that combines the elegant aesthetics of Evil Rabbit with the optimized syntax highlighting of JetBrains Fleet Dark.
 
 ## Preview
 
-![Evil Fleet Theme Preview](assets/preview.png)
+![Thunky Theme Preview](assets/preview.png)
 
 
 ## Features
